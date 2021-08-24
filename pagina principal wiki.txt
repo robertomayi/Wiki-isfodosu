@@ -1,0 +1,47 @@
+Bienvenidos a Wiki ISFODOSU, proyecto colaborativo basado en la Filosofía [[Wiki]], que procura integrar de manera activa a toda la comunidad educativa del [[ISFODOSU]] y a todo aquel que desee compartir, colaborar y aportar de manera desinteresada sus conocimientos y experiencias, a través de la publicación de artículos y contenidos de calidad que puedan ser interés para nuestra comunidad.
+
+Wiki ISFODOSU se proyecta como una enciclopedia institucional, que promueve la colaboración y producción de contenido de calidad y de interés general, por encima del simple consumo de material en la web, a los fines de crear una comunidad de ciudadanos digitales, empoderados, quienes con sus aportes ayudan a construir una sociedad mejor.
+
+Wiki ISFODOSU utiliza el software de código abierto Mediawiki, que es el mismo software utilizado por [https://es.wikipedia.org/wiki/Wikipedia:Portada Wikipedia], de manera que no se requiere ser experto en programación o TIC para hacer cualquier colaboración de contenido.  Es importante resaltar la importancia de que las colaboraciones sean de calidad, siempre señalen las fuentes y respeten los derechos de autor.
+
+== ¿Cómo colaborar? ==
+
+Colaborar con Wiki ISFODOSU es bastante sencillo y lo puedes hacer de diferentes maneras, por ejemplo, puedes crear un artículo o contenido que no exista o puedes editar y mejorar algún artículo existente.  Para la creación de artículos puedes consultar la relación de [[Artículos por Desarrollar]] y si te animas, puedes crear y agregar contenido al o los artículos que te interesen.
+
+Antes de empezar a crear cualquier artículo o contenido, es importante conocer las [[normas de publicación]].    De igual manera deberás tener un conocimiento básico de los formatos o códigos de edición de documentos en la plataforma Wiki.
+
+Anímate a colaborar y no te decepciones si alguien más corrige o mejora tus aportes.   Los contenidos de este tipo de plataforma se mejoran cada día, gracias a la colaboraciones, observaciones y correcciones de los usuarios.
+
+== Tipos de Contenido ==
+
+Wiki ISFODOSU, recomienda y promueve la colaboración y apoyo en la creación de artículos y contenidos orientados al mejor aprovechamiento de la comunidad educativa en particular y la sociedad dominicana en sentido general.     Se espera, en primer lugar, que las colaboraciones estén vinculadas a las áreas de interés y necesidades de los alumnos, docentes y relacionados con la institución.
+
+== Normas de colaboración ==
+
+A continuación se detalla una serie de recomendaciones sobre las normas de publicación y edición de contenido en Wiki ISFODOSU:
+
+1) Se solicita que todos los artículos tengan referencias, fuentes o medios de verificación, de manera que el lector pueda comprobar la exactitud, precisión y neutralidad del artículo, de manera que pueda buscar más información sobre el tema.   
+
+2) Se espera que los artículos tengan el mínimo de faltas ortográficas y errores gramaticales.
+
+3) Si se está editando el trabajo de otro colaborador, se espera que el nuevo aporte, verdaderamente contribuya al tema o corrija errores visibles.
+
+4) La creación o edición de artículos debe manejarse con criterios de neutralidad y objetividad.
+
+5) No se recomienda el copiar y pegar artículos completos de otras páginas, que no manifiesten en alguna parte de los mismos el enriquecimiento y los aportes del colaborador.
+
+6) No está permitido, bajo ningún concepto, la creación o colocación de contenidos que riñan con la ley, la moral y las buenas costumbres.   Que inciten al odio, la violencia, la discriminación, el sexismo o cualquier forma de expresión que pueda resultar ofensiva hacia terceros.
+
+== Tutorial de Wikipedia ==
+
+Para aprender los códigos edición de artículos, por favor acceder al siguiente tutorial en Wikipedia,   [https://es.wikipedia.org/wiki/Ayuda:Tutorial Tutorial Para Editar en Wikipedia]
+
+== Artículos por desarrollar ==
+
+Por favor accede a la página de [[Artículos por Desarrollar]]
+
+
+== Comunidad de Editores ==
+
+Si quieres formar parte de la comunidad de editores, valiosos colaboradores que dedican de su tiempo para la creación de artículos propios, así como la revisión, corrección y enriquecimiento de los artículos y colaboraciones de otros usuarios.   Solo debes agregar tu nombre y usuario a la página [[Comunidad de Editores]].
+	
